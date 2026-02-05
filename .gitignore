@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+venv311/
+
+# Archivos binarios de Python
+*.whl
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
